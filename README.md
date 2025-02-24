@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinimumWageRat
 - 👀 I’m interested in Go for Backend development 
-- 🌱 I’m currently learning Go and Backend and Linux!
+- 🌱 I’m currently learning Go, Backend and Linux!
 - 💞️ I’m looking to collaborate on projects that use Go 
 - 📫 How to reach me DM me on discord @minimumwagerat
 - 😄 Pronouns: I'm a dude lol
