@@ -1,6 +1,4 @@
-Hey I am Ryan. I am new to coding and the tech world. I love linux a lot and am learning C. Have a good day.
-
-If you need to contact me just DM me on discord @guhgoblin
+Hey I am Ryan. I am new to coding and the tech world. I love linux a lot and I am learning C, Go and a bit of Java. Most of my projects are private cause I'm learning. So yeah. May God bless your day!
 
 <!---
 MinimumWageRat/MinimumWageRat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
